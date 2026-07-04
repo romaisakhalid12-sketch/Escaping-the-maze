@@ -17,3 +17,9 @@ while not at_goal():
     else:
         turn_left()
 
+        ## 📂 Project File
+#  The solution is located in:
+#    - `maze_solver.py`
+#
+# > ** Note: ** This code is designed  to run in ** Reeborg's World**. Functions such as `move()`, `turn_left()`, `front_is_clear()`, `right_is_clear()`, and `at_goal()` are provided by the Reeborg's World environment and will not work in a standard Python interpreter.
+
